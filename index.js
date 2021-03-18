@@ -49,7 +49,7 @@ app.get("/Office",function(req,res){
 app.get("/Ourworks",function(req,res){
     res.render("Ourworks");
 });
-app.get("/Residentialdesigining",function(req,res){
+app.get("/Residentialdesigning",function(req,res){
     res.render("Residentialdesigning");
 });
 app.get("/services",function(req,res){
